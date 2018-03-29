@@ -1,0 +1,36 @@
+{
+  "name": "grunt-vs-gulp",
+  "version": "1.0.0",
+  "description": "First experience with grunt and gulp",
+  "main": "gruntfile.js",
+  "dependencies": {
+    "grunt": "^1.0.2",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^3.3.0",
+    "grunt-sass": "^2.1.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-css-scss": "^0.1.0",
+    "gulp-sass": "^3.2.1",
+    "node-sass": "^4.8.3",
+    "save": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdullahcok/grunt-vs-gulp.git"
+  },
+  "keywords": [
+    "gulp",
+    "grunt"
+  ],
+  "author": "abdullahcok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdullahcok/grunt-vs-gulp/issues"
+  },
+  "homepage": "https://github.com/abdullahcok/grunt-vs-gulp#readme"
+}
